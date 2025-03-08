@@ -36,5 +36,6 @@
 
 This is a client-side library, so you don't need a package manager like npm (although you *could* publish it to npm for convenience!). Simply include `index.js` in your HTML:
 
-```html
 <script src="index.js"></script>
+<script src="[https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js](https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js)"></script>
+
